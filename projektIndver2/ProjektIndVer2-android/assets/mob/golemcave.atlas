@@ -1,0 +1,89 @@
+
+golemcave.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+MudGolem_attack1
+  rotate: false
+  xy: 1, 660
+  size: 260, 220
+  orig: 260, 220
+  offset: 0, 0
+  index: -1
+MudGolem_attack2
+  rotate: false
+  xy: 1, 440
+  size: 260, 220
+  orig: 260, 220
+  offset: 0, 0
+  index: -1
+MudGolem_attack3
+  rotate: false
+  xy: 263, 660
+  size: 260, 220
+  orig: 260, 220
+  offset: 0, 0
+  index: -1
+MudGolem_attack4
+  rotate: false
+  xy: 1, 220
+  size: 260, 220
+  orig: 260, 220
+  offset: 0, 0
+  index: -1
+MudGolem_die1
+  rotate: false
+  xy: 263, 440
+  size: 260, 220
+  orig: 260, 220
+  offset: 0, 0
+  index: -1
+MudGolem_die2
+  rotate: false
+  xy: 525, 660
+  size: 260, 220
+  orig: 260, 220
+  offset: 0, 0
+  index: -1
+MudGolem_die3
+  rotate: false
+  xy: 1, 0
+  size: 260, 220
+  orig: 260, 220
+  offset: 0, 0
+  index: -1
+MudGolem_die4
+  rotate: false
+  xy: 263, 220
+  size: 260, 220
+  orig: 260, 220
+  offset: 0, 0
+  index: -1
+MudGolem_walk1
+  rotate: false
+  xy: 525, 440
+  size: 260, 220
+  orig: 260, 220
+  offset: 0, 0
+  index: -1
+MudGolem_walk2
+  rotate: false
+  xy: 263, 0
+  size: 260, 220
+  orig: 260, 220
+  offset: 0, 0
+  index: -1
+MudGolem_walk3
+  rotate: false
+  xy: 525, 220
+  size: 260, 220
+  orig: 260, 220
+  offset: 0, 0
+  index: -1
+MudGolem_walk4
+  rotate: false
+  xy: 525, 0
+  size: 260, 220
+  orig: 260, 220
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,40 @@
+
+fore.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bar2
+  rotate: false
+  xy: 1, 47
+  size: 269, 76
+  orig: 269, 76
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 1, 1
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+02cannon_base
+  rotate: false
+  xy: 272, 76
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+01cannon
+  rotate: false
+  xy: 53, 30
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+full
+  rotate: false
+  xy: 272, 61
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,19 @@
+
+starts.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+screen1_background
+  rotate: false
+  xy: 1, 100
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+game_name
+  rotate: false
+  xy: 1, 1
+  size: 537, 97
+  orig: 537, 97
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,96 @@
+
+giftbox.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Giftbox_Attack1
+  rotate: false
+  xy: 1, 100
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+Giftbox_Attack2
+  rotate: false
+  xy: 1, 1
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+Giftbox_Attack3
+  rotate: false
+  xy: 111, 100
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+Giftbox_Attack4
+  rotate: false
+  xy: 111, 1
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+Giftbox_Attack5
+  rotate: false
+  xy: 221, 100
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+Giftbox_Die1
+  rotate: false
+  xy: 221, 1
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+Giftbox_Die2
+  rotate: false
+  xy: 331, 100
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+Giftbox_Die3
+  rotate: false
+  xy: 331, 1
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+Giftbox_Die4
+  rotate: false
+  xy: 441, 100
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+Giftbox_Walk1
+  rotate: false
+  xy: 441, 1
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+Giftbox_Walk2
+  rotate: false
+  xy: 551, 100
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+Giftbox_Walk3
+  rotate: false
+  xy: 551, 1
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+Giftbox_Walk4
+  rotate: false
+  xy: 661, 100
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1

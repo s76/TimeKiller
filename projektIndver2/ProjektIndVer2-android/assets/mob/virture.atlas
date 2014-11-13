@@ -1,0 +1,82 @@
+
+virture.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Virture_Attack1
+  rotate: false
+  xy: 1, 313
+  size: 117, 154
+  orig: 117, 154
+  offset: 0, 0
+  index: -1
+Virture_Attack2
+  rotate: false
+  xy: 1, 157
+  size: 117, 154
+  orig: 117, 154
+  offset: 0, 0
+  index: -1
+Virture_Attack3
+  rotate: false
+  xy: 120, 313
+  size: 117, 154
+  orig: 117, 154
+  offset: 0, 0
+  index: -1
+Virture_die1
+  rotate: false
+  xy: 1, 1
+  size: 117, 154
+  orig: 117, 154
+  offset: 0, 0
+  index: -1
+Virture_die2
+  rotate: false
+  xy: 120, 157
+  size: 117, 154
+  orig: 117, 154
+  offset: 0, 0
+  index: -1
+Virture_die3
+  rotate: false
+  xy: 239, 313
+  size: 117, 154
+  orig: 117, 154
+  offset: 0, 0
+  index: -1
+Virture_die4
+  rotate: false
+  xy: 120, 1
+  size: 117, 154
+  orig: 117, 154
+  offset: 0, 0
+  index: -1
+Virture_Idle1
+  rotate: false
+  xy: 239, 157
+  size: 117, 154
+  orig: 117, 154
+  offset: 0, 0
+  index: -1
+Virture_Idle2
+  rotate: false
+  xy: 358, 313
+  size: 117, 154
+  orig: 117, 154
+  offset: 0, 0
+  index: -1
+Virture_Idle3
+  rotate: false
+  xy: 239, 1
+  size: 117, 154
+  orig: 117, 154
+  offset: 0, 0
+  index: -1
+Virture_Idle4
+  rotate: false
+  xy: 358, 157
+  size: 117, 154
+  orig: 117, 154
+  offset: 0, 0
+  index: -1

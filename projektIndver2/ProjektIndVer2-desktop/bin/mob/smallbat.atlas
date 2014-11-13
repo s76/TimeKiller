@@ -1,0 +1,82 @@
+
+smallbat.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+NightHunter_Attack1
+  rotate: false
+  xy: 1, 305
+  size: 110, 150
+  orig: 110, 150
+  offset: 0, 0
+  index: -1
+NightHunter_Attack2
+  rotate: false
+  xy: 1, 153
+  size: 110, 150
+  orig: 110, 150
+  offset: 0, 0
+  index: -1
+NightHunter_Attack3
+  rotate: false
+  xy: 113, 305
+  size: 110, 150
+  orig: 110, 150
+  offset: 0, 0
+  index: -1
+NightHunter_Die1
+  rotate: false
+  xy: 1, 1
+  size: 110, 150
+  orig: 110, 150
+  offset: 0, 0
+  index: -1
+NightHunter_Die2
+  rotate: false
+  xy: 113, 153
+  size: 110, 150
+  orig: 110, 150
+  offset: 0, 0
+  index: -1
+NightHunter_Die3
+  rotate: false
+  xy: 225, 305
+  size: 110, 150
+  orig: 110, 150
+  offset: 0, 0
+  index: -1
+NightHunter_Die4
+  rotate: false
+  xy: 113, 1
+  size: 110, 150
+  orig: 110, 150
+  offset: 0, 0
+  index: -1
+NightHunter_Idle1
+  rotate: false
+  xy: 225, 153
+  size: 110, 150
+  orig: 110, 150
+  offset: 0, 0
+  index: -1
+NightHunter_Idle2
+  rotate: false
+  xy: 337, 305
+  size: 110, 150
+  orig: 110, 150
+  offset: 0, 0
+  index: -1
+NightHunter_Idle3
+  rotate: false
+  xy: 225, 1
+  size: 110, 150
+  orig: 110, 150
+  offset: 0, 0
+  index: -1
+NightHunter_Idle4
+  rotate: false
+  xy: 337, 153
+  size: 110, 150
+  orig: 110, 150
+  offset: 0, 0
+  index: -1

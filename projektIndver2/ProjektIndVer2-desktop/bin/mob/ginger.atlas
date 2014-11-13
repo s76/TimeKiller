@@ -1,0 +1,96 @@
+
+ginger.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+AngryGingerBread_Attack1
+  rotate: false
+  xy: 1, 337
+  size: 133, 166
+  orig: 133, 166
+  offset: 0, 0
+  index: -1
+AngryGingerBread_Attack2
+  rotate: false
+  xy: 1, 169
+  size: 133, 166
+  orig: 133, 166
+  offset: 0, 0
+  index: -1
+AngryGingerBread_Attack3
+  rotate: false
+  xy: 136, 337
+  size: 133, 166
+  orig: 133, 166
+  offset: 0, 0
+  index: -1
+AngryGingerBread_Attack4
+  rotate: false
+  xy: 1, 1
+  size: 133, 166
+  orig: 133, 166
+  offset: 0, 0
+  index: -1
+AngryGingerBread_Attack5
+  rotate: false
+  xy: 136, 169
+  size: 133, 166
+  orig: 133, 166
+  offset: 0, 0
+  index: -1
+AngryGingerBread_Die1
+  rotate: false
+  xy: 271, 337
+  size: 133, 166
+  orig: 133, 166
+  offset: 0, 0
+  index: -1
+AngryGingerBread_Die2
+  rotate: false
+  xy: 136, 1
+  size: 133, 166
+  orig: 133, 166
+  offset: 0, 0
+  index: -1
+AngryGingerBread_Die3
+  rotate: false
+  xy: 271, 169
+  size: 133, 166
+  orig: 133, 166
+  offset: 0, 0
+  index: -1
+AngryGingerBread_Die4
+  rotate: false
+  xy: 406, 337
+  size: 133, 166
+  orig: 133, 166
+  offset: 0, 0
+  index: -1
+AngryGingerBread_Walk1
+  rotate: false
+  xy: 271, 1
+  size: 133, 166
+  orig: 133, 166
+  offset: 0, 0
+  index: -1
+AngryGingerBread_Walk2
+  rotate: false
+  xy: 406, 169
+  size: 133, 166
+  orig: 133, 166
+  offset: 0, 0
+  index: -1
+AngryGingerBread_Walk4
+  rotate: false
+  xy: 406, 169
+  size: 133, 166
+  orig: 133, 166
+  offset: 0, 0
+  index: -1
+AngryGingerBread_Walk3
+  rotate: false
+  xy: 541, 337
+  size: 133, 166
+  orig: 133, 166
+  offset: 0, 0
+  index: -1
